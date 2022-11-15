@@ -17,9 +17,9 @@ console.log("Здравствуйте,  " + userName  + "  " + lastName );
 var numberOne = prompt("Введите первое число")
 var numberTwo = prompt("Введите второе число")
 
-if(numberOne.length < numberTwo.length){
+if (numberOne < numberTwo) {
     console.log("Первое число больше")
-} else if(numberOne.length > numberTwo.length){
+} else if(numberOne > numberTwo){
     console.log("Второе число больше")
 } else {
     console.log("Числа равны")
