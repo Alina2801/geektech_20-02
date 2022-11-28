@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    position: fixed;
+    height: 100vh;
+    width: 100%;
+    font-family: "Lato", sans-serif;
+    background: url("images/1624069766_6-phonoteka_org-p-oboi-na-rabochii-stol-odnotonnie-krasivo-6.jpg")  no-repeat center fixed;
+}
+.timer{
+    height: 100%;
+    width: 100%;
+    padding: 5vh 10vw 0 10vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 60px;
+    color: #241532;
+}
+span{
+    color: #2688a0;
+}
+.buttons{
+    text-decoration: none;
+    padding: 10px 50px;
+    margin: 20px 500px;
+    border-radius: 20px;
+    box-shadow: 0 0 40px 10px #16181d inset, 0 0 0 0 #133050;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: #10101a;
+    transition: .15s ease-in-out;
+    display: flex;
+    justify-content: center;
+
+}
+button:hover{
+    box-shadow: 0 0 20px 0 #14192b inset, 0 0 10px 4px #1e0434;
+    color: #241532;
+}
+button{
+    box-shadow: 0 0 40px 10px #16181d inset, 0 0 0 0 #133050;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: #2688a0;
+    transition: .15s ease-in-out;
+    border-radius: 10px;
+}
+
