@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dz_alina_20-02react/static/css/main.f9a41126.css",
+    "main.js": "/dz_alina_20-02react/static/js/main.431d7f5b.js",
+    "index.html": "/dz_alina_20-02react/index.html",
+    "main.f9a41126.css.map": "/dz_alina_20-02react/static/css/main.f9a41126.css.map",
+    "main.431d7f5b.js.map": "/dz_alina_20-02react/static/js/main.431d7f5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9a41126.css",
+    "static/js/main.431d7f5b.js"
+  ]
+}
